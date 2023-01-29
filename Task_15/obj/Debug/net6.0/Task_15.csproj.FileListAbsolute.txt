@@ -1,0 +1,15 @@
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\bin\Debug\net6.0\Task_15.exe
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\bin\Debug\net6.0\Task_15.deps.json
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\bin\Debug\net6.0\Task_15.runtimeconfig.json
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\bin\Debug\net6.0\Task_15.dll
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\bin\Debug\net6.0\Task_15.pdb
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\obj\Debug\net6.0\Task_15.csproj.AssemblyReference.cache
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\obj\Debug\net6.0\Task_15.GeneratedMSBuildEditorConfig.editorconfig
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\obj\Debug\net6.0\Task_15.AssemblyInfoInputs.cache
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\obj\Debug\net6.0\Task_15.AssemblyInfo.cs
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\obj\Debug\net6.0\Task_15.csproj.CoreCompileInputs.cache
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\obj\Debug\net6.0\Task_15.dll
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\obj\Debug\net6.0\refint\Task_15.dll
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\obj\Debug\net6.0\Task_15.pdb
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\obj\Debug\net6.0\Task_15.genruntimeconfig.cache
+A:\Олег.Учеба\ДЗ Булгаков\Sem_1\Task_15\obj\Debug\net6.0\ref\Task_15.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Олег.Учеба\\Семинар ДЗ\\Sem_1\\Task_04\\Task_04.csproj": {}
+    "A:\\Олег.Учеба\\ДЗ Булгаков\\Sem_1\\Task_04\\Task_04.csproj": {}
   },
   "projects": {
-    "A:\\Олег.Учеба\\Семинар ДЗ\\Sem_1\\Task_04\\Task_04.csproj": {
+    "A:\\Олег.Учеба\\ДЗ Булгаков\\Sem_1\\Task_04\\Task_04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Олег.Учеба\\Семинар ДЗ\\Sem_1\\Task_04\\Task_04.csproj",
+        "projectUniqueName": "A:\\Олег.Учеба\\ДЗ Булгаков\\Sem_1\\Task_04\\Task_04.csproj",
         "projectName": "Task_04",
-        "projectPath": "A:\\Олег.Учеба\\Семинар ДЗ\\Sem_1\\Task_04\\Task_04.csproj",
+        "projectPath": "A:\\Олег.Учеба\\ДЗ Булгаков\\Sem_1\\Task_04\\Task_04.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "A:\\Олег.Учеба\\Семинар ДЗ\\Sem_1\\Task_04\\obj\\",
+        "outputPath": "A:\\Олег.Учеба\\ДЗ Булгаков\\Sem_1\\Task_04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

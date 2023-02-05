@@ -6,23 +6,18 @@
 12821 -> да
 23432 -> да
 */
+Console.WriteLine("Введите число: ");
+string? number = Console.ReadLine();
 
+void CheckingNumber(string number){
+  if (number[0]==number[4] || number[1]==number[3]){
+    Console.WriteLine($"Введенное число: {number} - палиндром.");
+  }
+  else Console.WriteLine($"Введенное число: {number} - НЕ палиндром.");
+}
 
-Console.WriteLine("Введите пятизначное число:");
-string number = Console.ReadLine();
-int len = number.Length;
-if (len == 5)
+if (number!.Length == 5)
 {
-    if (number[0] == number[4] || number[1] == number[3])
-    {
-        Console.WriteLine($"{number} - Палиндром");
-    }
-    else
-    {
-        Console.WriteLine($"{number} - Не палиндром");
-    }
+  CheckingNumber(number);
 }
-else
-{
-    Console.WriteLine($": {number} - не является пятизначным");
-}
+else Console.WriteLine($"Введите другое число");

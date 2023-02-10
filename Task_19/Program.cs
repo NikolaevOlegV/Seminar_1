@@ -20,4 +20,5 @@ if (number!.Length == 5)
 {
   CheckingNumber(number);
 }
-else Console.WriteLine($"Введите другое число");
+else
+ Console.WriteLine($"Введите другое число");

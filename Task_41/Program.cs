@@ -20,7 +20,7 @@ for (int i = 0; i < inputStr.Length; i++)
 }
 if (Convert.ToInt32(tmpStr) > 0) count++;
 
-Console.WriteLine($"Введенные числа {inputStr} ->  {count} \nПозиций больше 0 = {count}.");
+Console.WriteLine($"Введенные числа {inputStr} ->  {count} \n Позиций больше 0 = {count}.");
 
 string ReadString(string message)
 {
